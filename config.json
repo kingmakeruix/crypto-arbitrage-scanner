@@ -1,0 +1,7 @@
+{
+  "exchanges": ["kraken", "bybit", "kucoin", "gate", "bitget"],
+  "pairs": ["BTC/USDT", "ETH/USDT", "SOL/USDT", "XRP/USDT", "DOGE/USDT"],
+  "taker_fee": 0.001,
+  "min_profit_pct": 0.05,
+  "output_file": "arbitrage_signals.json"
+}
