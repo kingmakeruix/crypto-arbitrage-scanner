@@ -4,6 +4,9 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -14,3 +17,10 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python scanner.py
+      - name: Commit and push latest signals
+        run: |
+          git config --global user.name "whyst0ne-bot"
+          git config --global user.email "bot@whyst0ne.dev"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "chore(data): update real-time arbitrage signals [skip ci]"
+          git push
