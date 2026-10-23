@@ -25,42 +25,42 @@ A high-performance, zero-API-key CEX & DEX cryptocurrency arbitrage detector and
   {
     "pair": "BTC/USDT",
     "buy_exchange": "Kraken",
-    "buy_price": 81788.0,
+    "buy_price": 81585.3,
     "sell_exchange": "Binance",
-    "sell_price": 81792.13,
-    "spread_usd": 4.13,
-    "spread_pct": 0.005,
-    "timestamp": "2026-10-23 17:21:03 UTC"
+    "sell_price": 81592.0,
+    "spread_usd": 6.7,
+    "spread_pct": 0.008,
+    "timestamp": "2026-10-23 18:03:24 UTC"
   },
   {
     "pair": "ETH/USDT",
-    "buy_exchange": "Binance",
-    "buy_price": 2411.74,
-    "sell_exchange": "Kraken",
-    "sell_price": 2412.06,
-    "spread_usd": 0.32,
-    "spread_pct": 0.013,
-    "timestamp": "2026-10-23 17:21:03 UTC"
+    "buy_exchange": "Kraken",
+    "buy_price": 2407.83,
+    "sell_exchange": "Binance",
+    "sell_price": 2407.96,
+    "spread_usd": 0.13,
+    "spread_pct": 0.005,
+    "timestamp": "2026-10-23 18:03:24 UTC"
   },
   {
     "pair": "SOL/USDT",
-    "buy_exchange": "Kraken",
-    "buy_price": 104.74,
-    "sell_exchange": "Binance",
-    "sell_price": 104.74,
+    "buy_exchange": "Binance",
+    "buy_price": 104.43,
+    "sell_exchange": "Kraken",
+    "sell_price": 104.43,
     "spread_usd": 0.0,
     "spread_pct": 0.0,
-    "timestamp": "2026-10-23 17:21:03 UTC"
+    "timestamp": "2026-10-23 18:03:24 UTC"
   },
   {
     "pair": "XRP/USDT",
     "buy_exchange": "Binance",
-    "buy_price": 1.3128,
+    "buy_price": 1.3098,
     "sell_exchange": "Kraken",
-    "sell_price": 1.31271,
+    "sell_price": 1.30979,
     "spread_usd": -0.0,
-    "spread_pct": -0.007,
-    "timestamp": "2026-10-23 17:21:03 UTC"
+    "spread_pct": -0.001,
+    "timestamp": "2026-10-23 18:03:24 UTC"
   }
 ]
 ```
