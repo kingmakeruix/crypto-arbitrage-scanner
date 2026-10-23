@@ -2,41 +2,41 @@
   {
     "pair": "BTC/USDT",
     "buy_exchange": "Kraken",
-    "buy_price": 81946.7,
+    "buy_price": 81890.7,
     "sell_exchange": "Binance",
-    "sell_price": 81956.0,
-    "spread_usd": 9.3,
-    "spread_pct": 0.011,
-    "timestamp": "2026-10-23 13:58:33 UTC"
+    "sell_price": 81894.0,
+    "spread_usd": 3.3,
+    "spread_pct": 0.004,
+    "timestamp": "2026-10-23 14:07:18 UTC"
   },
   {
     "pair": "ETH/USDT",
     "buy_exchange": "Kraken",
-    "buy_price": 2412.79,
+    "buy_price": 2410.85,
     "sell_exchange": "Binance",
-    "sell_price": 2412.86,
-    "spread_usd": 0.07,
-    "spread_pct": 0.003,
-    "timestamp": "2026-10-23 13:58:33 UTC"
+    "sell_price": 2410.95,
+    "spread_usd": 0.1,
+    "spread_pct": 0.004,
+    "timestamp": "2026-10-23 14:07:18 UTC"
   },
   {
     "pair": "SOL/USDT",
     "buy_exchange": "Binance",
-    "buy_price": 104.99,
-    "sell_exchange": "Coinbase",
-    "sell_price": 104.99,
-    "spread_usd": 0.0,
-    "spread_pct": 0.0,
-    "timestamp": "2026-10-23 13:58:33 UTC"
+    "buy_price": 104.96,
+    "sell_exchange": "Binance",
+    "sell_price": 104.95,
+    "spread_usd": -0.01,
+    "spread_pct": -0.01,
+    "timestamp": "2026-10-23 14:07:18 UTC"
   },
   {
     "pair": "XRP/USDT",
-    "buy_exchange": "Kraken",
-    "buy_price": 1.32136,
-    "sell_exchange": "Binance",
-    "sell_price": 1.3213,
+    "buy_exchange": "Binance",
+    "buy_price": 1.3203,
+    "sell_exchange": "Kraken",
+    "sell_price": 1.32022,
     "spread_usd": -0.0,
-    "spread_pct": -0.005,
-    "timestamp": "2026-10-23 13:58:33 UTC"
+    "spread_pct": -0.006,
+    "timestamp": "2026-10-23 14:07:18 UTC"
   }
 ]
